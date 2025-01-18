@@ -1,0 +1,8 @@
+if getgenv().Key = "D0jSodDkll22" or "FhuJDjfLoo" or "HwKg23IgkLDuvDF" then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/decryp1/Spelling-Bee-Script/refs/heads/main/spelling%20bee%20script"))()
+
+else
+
+ warn("[TantoNetworks] -> Game not supported.")
+end
